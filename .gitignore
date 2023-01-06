@@ -1,4 +1,4 @@
 .vscode/
 .xmake/
 build/
-src/main.c
+src/main.cpp
