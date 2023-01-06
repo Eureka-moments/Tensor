@@ -1,6 +1,5 @@
 {
     cmdlines = {
-        "xmake run tensor",
         "xmake l /home/yang/.vscode/extensions/tboox.xmake-vscode-1.9.2/assets/default_target.lua",
         "xmake run tensor",
         "xmake l /home/yang/.vscode/extensions/tboox.xmake-vscode-1.9.2/assets/default_target.lua",
@@ -64,6 +63,7 @@
         "xmake run tensor",
         "xmake -w",
         "xmake l /home/yang/.vscode/extensions/tboox.xmake-vscode-1.9.2/assets/default_target.lua",
-        "xmake run tensor"
+        "xmake run tensor",
+        "xmake l /home/yang/.vscode/extensions/tboox.xmake-vscode-1.9.2/assets/explorer.lua"
     }
 }
